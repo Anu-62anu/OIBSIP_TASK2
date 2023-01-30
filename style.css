@@ -1,0 +1,176 @@
+
+.font1 {
+    font-size: 90px;
+    font-weight: bolder;
+}
+
+
+.font2 {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.bg-container {
+    background-color: #191a1d;
+    background-size: cover;
+    padding-top: 20px;
+    height: 800px;
+
+}
+.bg-containerx {
+    background-color: white;
+    background-size: cover;
+    padding: 20px; 
+}
+
+.image {
+   
+  height: 240px;
+  width: 260px;
+  border-radius: 180px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.heading {
+    color: white;
+    font-size: 40px;
+}
+
+.dif {
+    color: #4b6cc1;
+}
+
+.para {
+    color: #9aa5b1;
+    font-size: 24px;
+}
+
+.button {
+    color: white;
+    background-color: #4b6cc1;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 16px;
+}
+.bg-container1 {
+    background-color: #323f4b;
+    padding: 20px;
+}
+
+.imagex {
+    border-radius: 20px;
+}
+
+.image1 {
+    height: 480px;
+    width: 300px;
+}
+
+.image2 {
+    height: 450px;
+    width: 300px;
+}
+
+.headingx {
+    color: #cced00;
+    font-size: 30px;
+}
+
+.head {
+    color: white;
+    font-size: 38px;
+}
+
+.parax {
+    color: #9aa5b1;
+    font-size: 20px;
+}
+
+.ig {
+    border-radius: 20px;
+    border-width: 0px;
+}
+
+.bg-container2 {
+    background-color: #1f2933;
+    padding-left: 20px;
+    padding-bottom: 50px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+
+.icon {
+    background-color: #323f4b;
+    border-radius: 20px;
+    border-width: 0px;
+}
+
+.icon1 {
+    height: 120px;
+    width: 120px;
+}
+.iconstar {
+    font-size: 70px;
+}
+.h {
+    color: white;
+    font-size: 30px;
+    padding-top: 10px;
+}
+.bg-container3 {
+    background-color: #3e4c59;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.head2 {
+    color: white;
+    font-size: 40px;
+}
+.bg-container4 {
+    background-color: #323f4b;
+    border-radius: 6px;
+    border-width: 0px;
+}
+.com {
+    border-radius: 10px;
+    border-width: 0px;
+}
+
+
+.imagey {
+    height: 200px;
+    width: 100%;
+}
+
+
+
+.heady {
+    color: white;
+    font-size: 24px;
+}
+
+.paray {
+    color: #9aa5b1;
+    font-size: 19px;
+}
+.con {
+    color: #cced00;
+    font-size: 24px;
+}
+.paraz {
+    font-size: 24px;
+    font-weight: 500;
+}
+.hr {
+    font-size: 30px;
+    border-color: black;
+    width: 75vw;
+    border-width: 2px;
+}
+.headingz {
+    font-size: 28px;
+    font-weight: 400;
+}
